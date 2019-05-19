@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Powerpoint
+Exec=epiphany --application-mode --profile="/home/darko/.config/epiphany/app-epiphany-powerpoint" https://office.live.com/start/PowerPoint.aspx
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Office;GNOME;GTK;
+Icon=/home/darko/.config/epiphany/app-epiphany-powerpoint/app-icon.svg
+StartupWMClass=epiphany-powerpoint

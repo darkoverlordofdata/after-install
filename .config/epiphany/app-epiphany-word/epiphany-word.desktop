@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Word
+Exec=epiphany --application-mode --profile="/home/darko/.config/epiphany/app-epiphany-word" https://office.live.com/start/Word.aspx
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Office;GNOME;GTK;
+Icon=/home/darko/.config/epiphany/app-epiphany-word/app-icon.svg
+StartupWMClass=epiphany-word

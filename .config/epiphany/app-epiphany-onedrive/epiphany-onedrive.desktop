@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Onedrive
+Exec=epiphany --application-mode --profile="/home/darko/.config/epiphany/app-epiphany-onedrive" https://onedrive.live.com/?id=root&cid=2C54B044118434DD
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Office;GNOME;GTK;
+Icon=/home/darko/.config/epiphany/app-epiphany-onedrive/app-icon.png
+StartupWMClass=epiphany-onedrive

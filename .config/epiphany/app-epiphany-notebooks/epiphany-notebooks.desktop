@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Notebooks
+Exec=epiphany --application-mode --profile="/home/darko/.config/epiphany/app-epiphany-notebooks" https://www.onenote.com/notebooks?auth=1&nf=1&fromAR=1
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Office;GNOME;GTK;
+Icon=/home/darko/.config/epiphany/app-epiphany-notebooks/app-icon.svg
+StartupWMClass=epiphany-notebooks

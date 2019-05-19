@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Excel
+Exec=epiphany --application-mode --profile="/home/darko/.config/epiphany/app-epiphany-excel" https://office.live.com/start/Excel.aspx?s=1&auth=1&nf=1
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Office;GNOME;GTK;
+Icon=/home/darko/.config/epiphany/app-epiphany-excel/app-icon.svg
+StartupWMClass=epiphany-excel
