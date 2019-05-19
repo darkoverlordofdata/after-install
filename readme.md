@@ -28,14 +28,17 @@ Post Install
     sudo apt install python3-pip 
     sudo apt install ninja-build 
     pip3 install –user meson 
-    add ~/.local/bin to your PATH. 
-    source .bashrc 
     sudo apt install clang 
     cd ./Downloads
     wget https://swift.org/builds/swift-5.0.1-release/ubuntu1804/swift-5.0.1-RELEASE/swift-5.0.1-RELEASE-ubuntu18.04.tar.gz
     tar xzf swift-5.0.1-RELEASE-ubuntu18.04.tar.gz
     sudo mv swift-5.0.1-RELEASE-ubuntu18.04 /usr/share/swift
-    add /usr/share/swift/usr/bin to your PATH
+
+Edit .bashrc
+===================================================
+
+    export PATH=$PATH:/home/darko/.local/bin
+    export PATH=$PATH:/usr/share/swift/usr/bin
     source  ~/.bashrc
 
 Install from Appcenter
