@@ -23,7 +23,7 @@ Post Install
     sudo apt install elementary-tweaks 
     sudo apt-add-repository ppa:jconti/recent-notifications
     sudo apt update 
-    sudo apt install recent-notifications
+    sudo apt install indicator-notifications
     
     sudo apt install git 
     wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add - 
@@ -33,7 +33,7 @@ Post Install
     sudo apt install sublime-text 
     sudo apt install python3-pip 
     sudo apt install ninja-build 
-    pip3 install –user meson 
+    pip3 install --user meson 
     sudo apt install clang 
     sudo apt install valac
     cd ./Downloads
