@@ -98,3 +98,4 @@ Wallpaper
     sudo apt install com.github.darkoverlordofdata.badabing
 
     
+53.7g - 39.8 = 13.9 g used
